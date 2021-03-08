@@ -57,4 +57,25 @@
  
 - Apply the ***Boy scout rule*** -> _"Leave the campground cleaner than you found it"_.
   - When edition code, do not just add lines of code -> it increases technical debt _(Cost that somebody will pay in the future when you dont make things right)_.
-  - Always **check** the code you edit, **refractor it** and **remove "code smells"** 
+  - Always **check** the code you edit, **refractor it** and **remove "code smells"** _(some code that smell brownly, for example: too long methods)_.
+
+- Always find root cause.
+  - When you resolve an error or bug, do not just check if the code you edite disworking correctly.
+  - Always look for the root cause of a problem.  
+
+### Name rules
+- Make meaningful distinction.
+- Choose names at appropiate level of abstraction. The name should reflect the level at wich the varibale or method works.
+- Nomes should describe side-effects, i.e. the entire functionality.
+- Name interfaces after funtionality the abstract derived from its usage by the client (e.g. IStream)
+- Name classes after implementation, reflectiong how it fulfils the functionality provided by its interfaces.
+- Name methods after what thy do, describing what is done and not how it is done.
+- Use ling names for long scopes.
+- Choose descriptive and unambiguous names
+   - Names have to be precise.
+   - Use pronounceable names.
+   - User searchable names.
+   - Replace magic numbers with named constants.   
+ - Avoid encondings
+  - Change ISHapeFactory, ShapeFactory
+   -  ShapeFactory, ShapeFactoryImplementation
