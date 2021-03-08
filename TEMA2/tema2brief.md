@@ -110,5 +110,9 @@ When to stop at the "optimal design"?
 - Structural simplicity
 
 - The concept of architecture.
-- 
+
+
+
+
+
 
