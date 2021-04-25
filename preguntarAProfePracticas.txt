@@ -1,3 +1,4 @@
 ves bien el bcm?
 
 diagrama de procesos si falta o sobra alguno?
+ver si el nivel de detalle de las actividades esta bien, después seguiremos refinando, viendo que actividades automatiza el sistema 
