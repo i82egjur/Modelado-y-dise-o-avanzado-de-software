@@ -11,14 +11,24 @@
 - Consultar ciudad deportiva y zona de entrenamiento
 
 ## Gestor de socios
-## Socios
-- Adquirir carnet de socio
+### Tipos de socios
+- Socio
+- Compromisario
+- Abonado
+### Socios
 - Gestionar socios
-## Abonos
-- Abonar socio // Añadir abono?
+- Adquirir carnet de socio
+- Pagar cuota anual
+
+### Abonos
 - Renovar socio
-- Gestionar abono
-## Entradas y localidades
+- Gestionar abono 
+  - Dar de alta
+  - Dar de baja
+  - Modificar tipo de abono  
+  
+### Entradas y localidades
 - Comprar entrada
 - Devolver entrada
 - Gestionar entradas y localidades
+- Poner a la venta
